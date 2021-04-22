@@ -6,7 +6,6 @@ I am Fullstack Developer able to build a Web presence from the ground up - from 
 - 🌱  I’m currently learning Node.js
 - 💬  Ask me about JavaScript or Product development stuffs
 - 📫  How to reach me: rubinpramod@gmail.com
-- 😄  Pronouns: he/him/his
 - ⚡   Interest: I love to play Football and Guitar
 
 
