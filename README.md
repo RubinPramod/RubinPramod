@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rubin Pramod</h1>
 <h3 align="center">A passionate Full Stack developer, I strongly believe in 'Find it, Fix it, Automate it, Never worry about it again'</h3>
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **MEARN Stack**
 
 - 💬 Ask me about **JavaScript or Product development stuffs**
 
